@@ -1,0 +1,10 @@
+# Railway config (optional). 
+# Pastikan entrypoint/start command diarahkan ke bot.py.
+
+[build]
+  # Railway akan menjalankan build di folder repo root.
+  # Jika kamu mengatur Root Directory di Railway ke folder ini, file ini bisa diabaikan.
+
+[deploy]
+  # none
+
